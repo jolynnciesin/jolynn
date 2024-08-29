@@ -1,2 +1,2 @@
 # jolynn
-myrepo
+GIS is my thing
